@@ -1,0 +1,136 @@
+.content {
+    max-width: 1000px;
+    margin: 30px auto;
+    overflow: auto;
+    min-height: 300px;
+  
+    padding: 30px;
+    border-radius: 5px;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+
+  .topContent {
+    overflow: auto;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .logo{
+    width: 200px;
+    height: 180px;
+  }
+
+  .logoDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 50px;
+
+  }
+
+  .calcTherm{
+    margin-top: 20px;
+    align-items: center;
+  }
+
+  
+
+  .firstRow{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 13px;
+  }
+
+ .homePar{
+  text-align: justify;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+ }
+ 
+ .homeP{
+   font-size: 16px;
+ }
+
+ .homeHeader{
+  margin-bottom: 20px;
+  text-align: center;
+  justify-content: center;
+ }
+
+ .aboutPar, p{
+  text-align: justify;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  font-size: large;
+ }
+
+ .aboutP1{
+  font-size: 16px;
+ }
+
+ .aboutP2{
+  font-size: 16px;
+ }
+
+ .aboutP3{
+  font-size: 16px;
+ }
+
+ .aboutHeader{
+  margin-left: 10px;
+  margin-bottom: 20px;
+ }
+
+ .thermalPar, p{
+  text-align: justify;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  font-size: large;
+ }
+
+ .thermalP1{
+  font-size: 16px;
+ }
+
+ .thermalP2{
+  font-size: 16px;
+ }
+
+ .thermalHeader{
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 20px;
+ }
+
+ .appTitle{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+  font-family: "Lucida Console", "Courier New", monospace;
+ }
+
+ .selectClass{
+  -webkit-appearance: none;
+  padding: 7px 40px 7px 12px;
+  width: 100%;
+  border: 1px solid #E8EAED;
+  border-radius: 5px;
+  background: white;
+  box-shadow: 0 1px 3px -2px #9098A9;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 16px;
+    color: "#5A667F";
+ }
+ .secondRow{
+   font-size: 13px;
+ }
+ 
